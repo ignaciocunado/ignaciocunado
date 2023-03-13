@@ -1,4 +1,10 @@
-### Hi there 👋
+# Ignacio Cuñado Barral
+
+- 📍 Netherlands + Spain
+- 👨🏼‍🎓 BSc Computer Science and Engineering Student at TU Delft
+- 📬 You can contact me at ignacunado@gmail.com
+- 💻 https://ignaciocunado.com (Work in progress)
+
 
 <!--
 **ignaciocunado/ignaciocunado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
