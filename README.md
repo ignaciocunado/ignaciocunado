@@ -2,7 +2,7 @@
 
 - 📍 Netherlands + Spain
 - 👨🏼‍🎓 BSc Computer Science and Engineering Student at TU Delft
-- 📬 You can contact me at ignacunado@gmail.com
+- 📬 You can contact me at contact@ignaciocunado.com
 
 
 <!--
