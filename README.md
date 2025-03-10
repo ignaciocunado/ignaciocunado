@@ -1,8 +1,9 @@
 # Ignacio Cuñado Barral
 
 - 📍 Netherlands + Spain
-- 👨🏼‍🎓 BSc Computer Science and Engineering Student at TU Delft
+- 👨🏼‍🎓 BSc Computer Science and Engineering Student at TU Delft + Math Minor at Polimi
 - 📬 You can contact me at contact@ignaciocunado.com
+- ![Linkedin](https://i.sstatic.net/gVE0j.png) Follow me on [LinkedIn!](https://www.linkedin.com/in/ignaciocunado/)
 
 
 <!--
