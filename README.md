@@ -4,7 +4,7 @@
 - 👨🏼‍🎓 BSc Computer Science and Engineering + Applied Math @ TU Delft
 - 📬 You can contact me at contact@ignaciocunado.com
 - ![Linkedin](https://i.sstatic.net/gVE0j.png) Follow me on [LinkedIn!](https://www.linkedin.com/in/ignaciocunado/)
-- ![ignaciocunado.com](https://ignaciocunado.com)
+- [ignaciocunado.com](https://ignaciocunado.com)
 
 
 <!--
