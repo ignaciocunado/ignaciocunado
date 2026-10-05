@@ -1,9 +1,10 @@
 # Ignacio Cuñado Barral
 
-- 📍 Netherlands + Spain
-- 👨🏼‍🎓 BSc Computer Science and Engineering + Applied Math @ TU Delft
+- 📍 UK + NL + Spain
+- 👨🏼‍🎓 MSc Machine Learning @ UCL
+- 🖥️ Graduated BSc Computer Science and Engineering + Applied Math @ TU Delft
 - 📬 You can contact me at contact@ignaciocunado.com
-- ![Linkedin](https://i.sstatic.net/gVE0j.png) Follow me on [LinkedIn!](https://www.linkedin.com/in/ignaciocunado/)
+- ![Linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg) Follow me on [LinkedIn!](https://www.linkedin.com/in/ignaciocunado/)
 - [ignaciocunado.com](https://ignaciocunado.com)
 
 
